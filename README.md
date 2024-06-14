@@ -1,0 +1,2 @@
+# DBHackathon
+Coding Challenge Würzburg
